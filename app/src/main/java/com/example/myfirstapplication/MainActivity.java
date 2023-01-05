@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     public void onClick(View v) {
-        Toast.makeText(this, "Всё получится!", Toast.LENGTH_SHORT).show(); //Данный метод выводит оповещени о нажатой кнопке
+        Toast.makeText(this, "Всё получится!Ха-ха-ха!", Toast.LENGTH_SHORT).show(); //Данный метод выводит оповещени о нажатой кнопке
     }
 }
